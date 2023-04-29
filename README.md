@@ -12,7 +12,7 @@ No installation is required. This is a web based tool and can be accessed throug
 
 Visit the [JoeCool_Day_Scheduler](https://joecool-engineer.github.io/JoeCool_Day_Scheduler/) and click on the **"Save Icon"** once a task/appointment has been entered. This will begin display text at the header to notify user the task/appointment has been saved to the local storage.
 
-![Password Generator Main Page](./assets/passwordGenerator.jpg)
+![Scheduler Main Page](./assets/Joe_Cool_Scheduler.jpg)
 
 ## Credits
 
