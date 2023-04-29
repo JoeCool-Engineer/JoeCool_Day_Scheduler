@@ -6,11 +6,11 @@ As part of week 5 challenge, I'm tasked with providing a day scheduler that will
 
 ## Installation
 
-No installation is required. This is a web based tool and can be accessed through [JoeCool Password Generator](https://joecool-engineer.github.io/JoeCool_Password_Generator/).
+No installation is required. This is a web based tool and can be accessed through [JoeCool_Day_Scheduler](https://joecool-engineer.github.io/JoeCool_Day_Scheduler/).
 
 ## Usage
 
-Visit the [JoeCool Password Generator](https://joecool-engineer.github.io/JoeCool_Password_Generator/) and click on the **"Save Icon"** once a task/appointment has been entered. This will begin display text at the header to notify user the task/appointment has been saved to the local storage.
+Visit the [JoeCool_Day_Scheduler](https://joecool-engineer.github.io/JoeCool_Day_Scheduler/) and click on the **"Save Icon"** once a task/appointment has been entered. This will begin display text at the header to notify user the task/appointment has been saved to the local storage.
 
 ![Password Generator Main Page](./assets/passwordGenerator.jpg)
 
